@@ -1,5 +1,7 @@
 # exampledata
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/99da929e-2aa5-4298-8f63-78c98f950009/deploy-status)](https://app.netlify.com/sites/exampledata/deploys)
+
 Example data files for data science projects
 
 ## File descriptions
