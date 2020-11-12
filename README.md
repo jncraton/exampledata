@@ -10,3 +10,4 @@ Example data files for data science projects
 - mlb-2020-regular-season.csv - Team statistics from the 2020 MLB season (https://www.mlb.com/stats/team)
 - fruits.csv - Fruits classification data from Iain Murray (https://homepages.inf.ed.ac.uk/imurray2/)
 - covid-19-meta.csv - Results of selected COVID-19 studies. Usefult for working with missing data (https://github.com/midas-network/COVID-19)
+- statcast-2020.csv.gz - 2020 Statcast data for all pitches in the 2020 season with most player-specific information removed
